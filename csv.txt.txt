@@ -1,0 +1,7 @@
+Die Datei besitzt eine Überschrift in der alle darunter stehenden zahlen durch ein semikolon getrennt werden.
+sensor_id;sensor_type;location;lat;lon;timestamp;temperature;humidity so lautet die überschrift, unter jedem begriff der hier steht sind Zahlen geschrieben die den wert für die entsprechende einheit zeigen z.B. Temperature.
+
+
+sensor_id;      sensor_type;       location;      lat;      lon;      timestamp;      temperature;      humidity
+Name bsp.(3660) Typ bsp.(DHT22)    Standort       höhe      länge     Datum/Uhrzeit   Temperatur        Feuchtigkeit
+                                   (Nummer)
